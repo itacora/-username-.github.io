@@ -686,7 +686,8 @@ input, select, textarea {
 			height: 100px;
 			line-height: 100px;
 			padding: 0;
-			background-image: url("../images/sample_icon1.jpg");
+			background-image: url("./images/sample_icon1.jpg");
+			background-size:  cover;
 			background-position: center center;
 			background-repeat: no-repeat;
 			text-indent: -10em;
@@ -761,7 +762,7 @@ input, select, textarea {
 			input[type="reset"].style2.down,
 			.button.style2.down,
 			button.style2.down {
-				background-image: url("../images/sample_icon1.jpg");
+				background-image: url("./images/sample_icon1.jpg");
 			}
 
 /* Form */
