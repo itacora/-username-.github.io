@@ -763,6 +763,8 @@ input, select, textarea {
 			.button.style2.down,
 			button.style2.down {
 				background-image: url("./images/sample_icon1.jpg");
+				background-size:  cover;
+				overflow: hidden;
 			}
 
 /* Form */
