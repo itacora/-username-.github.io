@@ -687,7 +687,7 @@ input, select, textarea {
 			line-height: 100px;
 			padding: 0;
 			background-color: rgba(0, 255, 0, 0.5);
-			background-image: url("https://itacora.github.io/images/sample_icon1.jpg") !important;
+			background-image: none !important;
 			background-size:  cover;
 			background-position: center center;
 			background-repeat: no-repeat; 
@@ -763,6 +763,10 @@ input, select, textarea {
 			input[type="reset"].style2.down,
 			.button.style2.down,
 			button.style2.down {
+				width: 100px;
+				height: 100px;
+				line-height: 100px;
+				padding: 0;
 				background-color: rgba(0, 255, 0, 0.5);
 				background-image: url("https://itacora.github.io/images/sample_icon1.jpg") !important;
 				background-size:  cover;
