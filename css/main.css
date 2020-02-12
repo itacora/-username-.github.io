@@ -700,6 +700,7 @@ input, select, textarea {
 			input[type="reset"].down.anchored,
 			.button.down.anchored,
 			button.down.anchored {
+				background-image: none !important;
 				bottom: 0;
 				border-bottom: 0;
 				border-radius: 3em 3em 0 0;
@@ -712,6 +713,7 @@ input, select, textarea {
 		input[type="reset"].anchored,
 		.button.anchored,
 		button.anchored {
+			background-image: none !important;
 			position: absolute;
 			left: 50%;
 		}
@@ -768,7 +770,7 @@ input, select, textarea {
 				line-height: 100px;
 				padding: 0;
 				background-color: rgba(0, 255, 0, 0.5);
-				background-image: url("https://itacora.github.io/images/sample_icon1.jpg") !important;
+				background-image: url("https://itacora.github.io/images/sample_icon4.jpg") !important;
 				background-size:  cover;
 				overflow: hidden;
 			}
