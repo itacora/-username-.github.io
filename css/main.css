@@ -687,7 +687,7 @@ input, select, textarea {
 			line-height: 100px;
 			padding: 0;
 			background-color: rgba(0, 255, 0, 0.5);
-			background-image: none !important;
+			background-image: url("https://itacora.github.io/images/sample_icon1.jpg") !important;
 			background-size:  cover;
 			background-position: center center;
 			background-repeat: no-repeat; 
@@ -695,7 +695,7 @@ input, select, textarea {
 			overflow: hidden;
 		}
 
-			/*
+			
 			input[type="button"].down.anchored,
 			input[type="submit"].down.anchored,
 			input[type="reset"].down.anchored,
@@ -719,7 +719,7 @@ input, select, textarea {
 			position: absolute;
 			left: 50%;
 		}
-		*/
+		
 
 		input[type="button"]:hover,
 		input[type="submit"]:hover,
@@ -768,7 +768,7 @@ input, select, textarea {
 			input[type="reset"].style2.down,
 			.button.style2.down,
 			button.style2.down {
-				background-image: url("https://itacora.github.io/images/sample_icon2.jpg") !important;
+				background-image: url("https://itacora.github.io/images/sample_icon1.jpg") !important;
 			}
 
 /* Form */
